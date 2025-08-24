@@ -62,7 +62,7 @@
     <div class="contato-item">✉️ Email: <a href="mailto:eletrizasegurancaeletronica@gmail.com">eletrizasegurancaeletronica@gmail.com</a></div>
   </div>
 
-  <footer>© 2025 Eletriza Segurança Eletrônica</footer>
+  <footer>© 2025 Eletriza </footer>
 
 </body>
 </html>
